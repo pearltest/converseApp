@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "CNVSLOGIN",
+    "password": "dev123eip",
+    "database": "Converse",
+    "host": "eipdevdb",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "CNVSLOGIN",
+    "password": "dev123eip",
+    "database": "Converse",
+    "host": "eipdevdb",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "CNVSLOGIN",
+    "password": "dev123eip",
+    "database": "Converse",
+    "host": "eipdevdb",
+    "dialect": "mssql"
+  }
+}
